@@ -36,9 +36,14 @@ sections:
           handling process. Or, if you’re using Snipcart, just refer to [our ToS
           and DPA](http://bit.ly/2YJwlyt).
       - question: Rapid-fire questions
-        answer: |+
-          Read more
+        answer: |
+          Q
 
+          A
+
+          Q
+
+          A
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
