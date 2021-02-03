@@ -6,15 +6,14 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >+
-      # Imagine this but with furniture and beds
+    content: >
+      # Imagine this but your info
 
 
       Or anything else for that matter. Only ongoing cost would be % of sale for
       snipcart to  process payment. Can allow card, debit, or any other payment
       type. This like all our sites is headless, so can be connected  to any
       CMS.
-
     actions:
       - title: See all items
         url: /store
